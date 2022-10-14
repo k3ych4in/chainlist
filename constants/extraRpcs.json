@@ -1513,5 +1513,10 @@
         "rpcs": [
             "https://node.0xtchain.com"
         ]
+    },
+     "3434": {
+        "rpcs": [
+            "https://rpc.keychain.finance"
+        ]
     }
 }
